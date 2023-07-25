@@ -1,0 +1,9 @@
+{
+    "name": "astranchet/accessible-emoji",
+    "description": "A KirbyTag to turn emojis in texts into accessible HTML",
+    "license": "MIT",
+    "type": "kirby-plugin",
+    "require": {
+        "getkirby/composer-installer": "^1.1"
+    }
+}
