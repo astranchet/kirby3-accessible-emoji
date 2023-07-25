@@ -4,7 +4,9 @@
  * Kirby 3 KirbyTag - Accessible emoji
  *
  * @version   0.0.1
- * @link      https://github.com/mlbiche/kirby3-accessible-emoji
+ * @link      https://github.com/astranchet/kirby3-accessible-emoji
+ * @author    Anne-Sophie Tranchet <as.tranchet@gmail.com>
+ * @copyright Anne-Sophie Tranchet <as.tranchet@gmail.com>
  * @license   MIT
  */
 

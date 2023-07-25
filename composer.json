@@ -3,6 +3,12 @@
     "description": "A KirbyTag to turn emojis in texts into accessible HTML",
     "license": "MIT",
     "type": "kirby-plugin",
+    "authors": [
+        {
+            "name": "Anne-Sophie Tranchet",
+            "email": "as.tranchet@gmail.com"
+        }
+    ],
     "require": {
         "getkirby/composer-installer": "^1.1"
     }

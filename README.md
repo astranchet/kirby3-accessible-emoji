@@ -11,7 +11,7 @@ Download and copy this repository to `/site/plugins/accessible-emoji`.
 ### Git submodule
 
 ```bash
-git submodule add https://github.com/mlbiche/kirby3-accessible-emoji.git site/plugins/accessible-emoji
+git submodule add https://github.com/astranchet/kirby3-accessible-emoji.git site/plugins/accessible-emoji
 ```
 
 ### Composer
